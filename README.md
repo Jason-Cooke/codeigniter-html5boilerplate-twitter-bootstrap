@@ -19,7 +19,7 @@
 * underscore.js 1.5.0
 * nav_helper
 * .htaccess tip for remove index.php
-* basejs view always include in page. (usefull to access via js some server side information e.g. base_url())
+* basejs view always include in page. (useful to access via js some server side information e.g. base_url())
 
 USAGE
 -------------------
